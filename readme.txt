@@ -1,0 +1,1 @@
+This is example git repo for e-learning course.
